@@ -88,20 +88,3 @@
 </p>
 
 <hr style="border: 1px solid #9b5eff; width: 70%; margin:10px auto;">
-
-<!-- ===================================== -->
-<!-- CONTATOS -->
-<!-- ===================================== -->
-<h2 align="center" style="color:#ffffff; margin:10px 0;">Contatos</h2>
-<p align="center" style="margin:5px 0;">
-  <a href="mailto:thiagopguimaraes21@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-guimar%C3%A3es-3b5a33350/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center" style="color:#9b5eff; margin:6px 0 0;">
-  ✨ <i>Feito por Thiago Guimarães com Python, HTML e CSS.</i> ✨
-</p>
